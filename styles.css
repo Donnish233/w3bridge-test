@@ -5,7 +5,8 @@ body{
     background-color: #00132D;
 }
 img{
-    height: 100px;
+    height: 150px;
+    width: 150px;
     float: right;
 }
 p{
