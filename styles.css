@@ -1,0 +1,13 @@
+*{
+    color: white;
+}
+body{
+    background-color: #00132D;
+}
+img{
+    height: 100px;
+    float: right;
+}
+p{
+    width: 50%;
+}
